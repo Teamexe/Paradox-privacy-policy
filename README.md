@@ -1,5 +1,3 @@
-# Paradox-privacy-policy
-
 
 Privacy Policy
 
@@ -7,7 +5,7 @@ Team .EXE built the Paradox by Team .EXE app as a Free app. This SERVICE is prov
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. We may modify the collected information under certain circumstances as required by the database schema and App functionality.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Paradox by Team .EXE unless otherwise defined in this Privacy Policy.
 
